@@ -1,0 +1,229 @@
+mine
+	output_kg/cap= 26.19
+	output_kg/unit= 1
+	output_units= kg
+	output_good= ore
+
+	input_manmo_max= 50
+	input_manmo_type= unskilled
+
+	input_kg/mo= 11.068
+	input_good= carpentry
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+smelter
+	output_kg/cap= 1046.712
+	output_kg/unit= 1
+	output_units= kg
+	output_good= iron
+
+	input_manmo_max= 3
+	input_manmo_type= unskilled
+
+	input_kg= 4486.550
+	input_units/kgs= kg
+
+	input_kg/mo= 11.068
+	input_good= carpentry
+
+	input_kg/mo= 2.917
+	input_good= masonry
+
+	input_kg/mo= 1
+	input_good= tools
+
+smithy
+	output_kg/cap= 1
+	output_kg/unit= 0.5
+	output_units= each
+	output_good= tools
+
+	input_manmo_max= 3
+	input_manmo_type= artisan
+
+	input_kg= 0.8
+	input_good= iron
+
+	input_kg= 0.2
+	input_good= lumber
+
+	input_kg/mo= 11.068
+	input_good= carpentry
+
+	input_kg/mo= 2.917
+	input_good= masonry
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+timber
+	output_kg/cap= 78.462
+	output_kg/unit= 1
+	output_units= kg
+	output_good= timber
+
+	input_manmo_max= 50
+	input_manmo_type= unskilled
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+lumber
+	output_kg/cap= 39.231
+	output_kg/unit= 1
+	output_units= kg
+	output_good= lumber
+
+	input_manmo_max= 50
+	input_manmo_type= artisan
+
+	input_kg= 49.039
+	input_good= timber
+
+	input_kg/mo= 11.068
+	input_good= carpentry
+
+	input_kg/mo= 2.917
+	input_good= masonry
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+carpentry
+	output_kg/cap= 12.5
+	output_kg/unit= 1
+	output_units= kg
+	output_good= carpentry
+
+	input_manmo_max= 50
+	input_manmo_type= artisan
+
+	input_kg= 12.5
+	input_good= lumber
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+brick maker
+	output_kg/cap= 13307.292
+	output_kg/unit= 1
+	output_units= kg
+	output_good= brick
+
+	input_manmo_max= 50
+	input_manmo_type= unskilled
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+masonry
+	output_kg/cap= 35486.111
+	output_kg/unit= 1
+	output_units= kg
+	output_good= masonry
+
+	input_manmo_max= 50
+	input_manmo_type= artisan
+
+	input_kg= 35486.111
+	input_good= brick
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+farm
+	output_kg/cap= 4535.924
+	output_kg/unit= 1
+	output_units= kg
+	output_good= grain
+
+	input_manmo_max= 3
+	input_manmo_type= unskilled
+
+	input_kg/mo= 11.068
+	input_good= carpentry
+
+	input_kg/mo= 2.917
+	input_good= masonry
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+mill
+	output_kg/cap= 41390.3
+	output_kg/unit= 1
+	output_units= kg
+	output_good= flour
+
+	input_manmo_max= 3
+	input_manmo_type= artisan
+
+	input_kg= 59129
+	input_good= grain
+
+	input_kg/mo= 44
+	input_good= carpentry
+
+	input_kg/mo= 2.917
+	input_good= masonry
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+bakery
+	output_kg/cap= 1034.167
+	output_kg/unit= 1
+	output_units= kg
+	output_good= bread
+
+	input_manmo_max= 15
+	input_manmo_type= artisan
+
+	input_kg= 1477.381
+	input_good= flour
+
+	input_kg= 39734.691
+	input_good= timber
+	note: as fuel
+
+	input_kg/mo= 11.068
+	input_good= carpentry
+
+	input_kg/mo= 2.917
+	input_good= masonry
+
+	input_kg/mo= 0.5
+	input_good= tools
+
+brewery
+	output_kg/cap= 221243.047
+	output_kg/unit= 1
+	output_units= L
+	output_good= beer
+
+	output_kg/cap= 442486.093
+	output_kg/unit= 1
+	output_units= L
+	output_good= minute_beer
+	note: minute beer was really weak beer used as water
+
+	input_manmo_max= 5
+	input_manmo_type= artisan
+
+	input_kg= 66236.645
+	input_good= grain
+
+	input_kg= 174117.415231667
+	input_good= timber
+	note: as fuel
+
+	input_kg/mo= 11.068
+	input_good= carpentry
+
+	input_kg/mo= 2.917
+	input_good= masonry
+
+	input_kg/mo= 0.5
+	input_good= tools

@@ -1,0 +1,2 @@
+Merge barrels with furniture and make furniture into furniture/stowage
+Delete clay

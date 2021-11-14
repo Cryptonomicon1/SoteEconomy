@@ -1,0 +1,41 @@
+logic,preference,good,amount
+subsistence needs,subsistence needs,subsistence needs,subsistence needs
+,100,grain,12
+and,50,meat (land),1.8
+or,50,meat (sea),1.8
+and,100,footwear,0.03
+and,50,cloth (plants),0.38
+or,50,cloth (wool),0.38
+and if cold,100,clothes (warm),0.7
+and,50,tea,111
+or,50,alcohol (m. beer),111
+basic needs,basic needs,basic needs,basic needs
+and,100,furniture,0.08
+and if cold,50,wood (timber),2812.5
+or if cold,50,coal,2962.09
+and,50,cloth (plants),0.76
+or,50,cloth (wool),0.76
+and,100,grain,2.22222222222222
+and,50,meat (land),3
+or,50,meat (sea),3
+and,100,soap,0.1
+and,100,drugs (medical),0.05
+luxury needs,luxury needs,luxury needs,luxury needs
+and,100,coffee,0.261
+and,50,alcohol (beer),10.5
+or,50,alcohol (wine),10.5
+and,100,alcohol (liquor),1.2
+and,100,tobacco,0.6
+and,50,clothes (plants),0.76
+or,50,clothes (wool),0.76
+and,100,footwear,0.03
+and,100,furniture,0.08
+and,100,drugs (recreation),0.6
+and,100,newspapers,0.01
+and,50,spices (sweet),0.102
+or,50,spices (savory),0.102
+and,100,steeds,0.755555555555556
+and,50,wares (clay),0.068
+or,50,wares (glass),0.068
+and,0,weapons (bows),0.008333333333333
+or,100,weapons (guns),0.037083333333333
